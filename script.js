@@ -141,6 +141,13 @@ function setLanguage(language) {
   try {
     localStorage.setItem('jb-lang', language);
   } catch (error) {
+  console.error('Portfolio loading failed:', error);
+
+  const grid = document.getElementById('project-grid');
+
+  grid.textContent =
+    'Unable to load portfolio data: ' + error.message;
+}
     // Local storage may be unavailable in private or restricted browsing modes.
   }
 
