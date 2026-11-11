@@ -1,0 +1,119 @@
+[
+  {
+    "id": "workshop",
+    "title": "NATIONAL WORKSHOP ON STRENGTHENING AGRICULTURAL EXTENSION PRACTITIONERS IN RWANDA",
+    "meta": "12 March 2026 · Musanze District",
+    "cover_image": "assets/gallery-p07_i1.jpg",
+    "images": [
+      "assets/gallery-p02_i1.jpg",
+      "assets/gallery-p02_i2.jpg",
+      "assets/gallery-p03_i1.jpg",
+      "assets/gallery-p03_i2.jpg",
+      "assets/gallery-p04_i1.jpg",
+      "assets/gallery-p05_i1.jpg",
+      "assets/gallery-p05_i2.jpg",
+      "assets/gallery-p06_i1.jpg",
+      "assets/gallery-p07_i1.jpg",
+      "assets/gallery-p07_i2.jpg"
+    ]
+  },
+  {
+    "id": "dialogue",
+    "title": "NATIONAL DIALOGUE ON AGRICULTURE EXTENSION AND ADVISORY SERVICES",
+    "meta": "26 March 2026 · Lemigo Hotel, Kigali",
+    "cover_image": "assets/gallery-p09_i2.jpg",
+    "images": [
+      "assets/gallery-p09_i1.jpg",
+      "assets/gallery-p09_i2.jpg",
+      "assets/gallery-p10_i1.jpg",
+      "assets/gallery-p10_i2.jpg",
+      "assets/gallery-p11_i1.jpg",
+      "assets/gallery-p11_i2.jpg",
+      "assets/gallery-p12_i1.jpg",
+      "assets/gallery-p13_i1.jpg",
+      "assets/gallery-p13_i2.jpg",
+      "assets/gallery-p14_i1.jpg",
+      "assets/gallery-p15_i1.jpg",
+      "assets/gallery-p15_i2.jpg",
+      "assets/gallery-p16_i1.jpg",
+      "assets/gallery-p17_i1.jpg",
+      "assets/gallery-p18_i1.jpg"
+    ]
+  },
+  {
+    "id": "agroecology",
+    "title": "2ND NATIONAL AGROECOLOGY SYMPOSIUM & EXHIBITION",
+    "meta": "10 July 2026 · M Hotel, Kigali",
+    "cover_image": "assets/gallery-p19_i1.jpg",
+    "images": [
+      "assets/gallery-p19_i1.jpg",
+      "assets/gallery-p19_i2.jpg",
+      "assets/gallery-p20_i1.jpg",
+      "assets/gallery-p20_i2.jpg",
+      "assets/gallery-p21_i1.jpg",
+      "assets/gallery-p22_i1.jpg",
+      "assets/gallery-p23_i1.jpg",
+      "assets/gallery-p23_i2.jpg",
+      "assets/gallery-p24_i1.jpg",
+      "assets/gallery-p24_i2.jpg",
+      "assets/gallery-p25_i1.jpg",
+      "assets/gallery-p25_i2.jpg",
+      "assets/gallery-p26_i1.jpg",
+      "assets/gallery-p26_i2.jpg",
+      "assets/gallery-p27_i1.jpg",
+      "assets/gallery-p27_i2.jpg",
+      "assets/gallery-p28_i1.jpg",
+      "assets/gallery-p28_i2.jpg",
+      "assets/gallery-p29_i1.jpg"
+    ]
+  },
+  {
+    "id": "seedpotato",
+    "title": "SEED POTATO HUB PROJECT — GICUMBI, KANIGA",
+    "meta": "Agricultural field documentation · AgriResearch Unguka",
+    "cover_image": "assets/gallery-p34_i1.jpg",
+    "images": [
+      "assets/gallery-p31_i1.jpg",
+      "assets/gallery-p32_i1.jpg",
+      "assets/gallery-p32_i2.jpg",
+      "assets/gallery-p33_i1.jpg",
+      "assets/gallery-p34_i1.jpg",
+      "assets/gallery-p35_i1.jpg",
+      "assets/gallery-p36_i1.jpg"
+    ]
+  },
+  {
+    "id": "burera",
+    "title": "FIELD ACTIVITY — BUTARO, BURERA DISTRICT",
+    "meta": "Field photography · Butaro, Burera District, Rwanda",
+    "cover_image": "assets/Butaro/_VIB1520.jpg",
+    "images": [
+      "assets/Butaro/_VIB1520.jpg",
+      "assets/Butaro/_VIB1540.jpg",
+      "assets/Butaro/_VIB1542.jpg",
+      "assets/Butaro/_VIB1574.jpg",
+      "assets/Butaro/_VIB1627.jpg",
+      "assets/Butaro/_VIB1642.jpg",
+      "assets/Butaro/_VIB1722.jpg",
+      "assets/Butaro/_VIB1728.jpg",
+      "assets/Butaro/_VIB1759.jpg",
+      "assets/Butaro/_VIB1766_2.jpg"
+    ]
+  },
+  {
+    "id": "graphics",
+    "title": "GRAPHIC DESIGN PROJECTS",
+    "meta": "Selected graphic design and visual communication work",
+    "cover_image": "assets/gallery-p41_i1.jpg",
+    "images": [
+      "assets/gallery-p38_i1.jpg",
+      "assets/gallery-p38_i2.jpg",
+      "assets/gallery-p39_i1.jpg",
+      "assets/gallery-p40_i1.jpg",
+      "assets/gallery-p41_i1.jpg",
+      "assets/gallery-p42_i1.jpg",
+      "assets/gallery-p43_i1.jpg",
+      "assets/gallery-p44_i1.jpg"
+    ]
+  }
+]
