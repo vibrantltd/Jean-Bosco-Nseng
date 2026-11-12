@@ -89,18 +89,18 @@ const ALBUMS = [
     "id": "burera",
     "title": "FIELD ACTIVITY — BUTARO, BURERA DISTRICT",
     "meta": "Field photography · Butaro, Burera District, Rwanda",
-    "cover_image": "assets/Butaro/_VIB1520.jpg",
+    "cover_image": "assets/_VIB1520.jpg",
     "images": [
-      "assets/Butaro/_VIB1520.jpg",
-      "assets/Butaro/_VIB1540.jpg",
-      "assets/Butaro/_VIB1542.jpg",
-      "assets/Butaro/_VIB1574.jpg",
-      "assets/Butaro/_VIB1627.jpg",
-      "assets/Butaro/_VIB1642.jpg",
-      "assets/Butaro/_VIB1722.jpg",
-      "assets/Butaro/_VIB1728.jpg",
-      "assets/Butaro/_VIB1759.jpg",
-      "assets/Butaro/_VIB1766_2.jpg"
+      "assets/_VIB1520.jpg",
+      "assets/_VIB1540.jpg",
+      "assets/_VIB1542.jpg",
+      "assets/_VIB1574.jpg",
+      "assets/_VIB1627.jpg",
+      "assets/_VIB1642.jpg",
+      "assets/_VIB1722.jpg",
+      "assets/_VIB1728.jpg",
+      "assets/_VIB1759.jpg",
+      "assets/_VIB1766_2.jpg"
     ]
   },
   {
