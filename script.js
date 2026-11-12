@@ -94,13 +94,13 @@ const ALBUMS = [
       "assets/VIB1520.jpg",
       "assets/VIB1540.jpg",
       "assets/VIB1542.jpg",
-      "assets/_VIB1574.jpg",
-      "assets/_VIB1627.jpg",
-      "assets/_VIB1642.jpg",
-      "assets/_VIB1722.jpg",
-      "assets/_VIB1728.jpg",
-      "assets/_VIB1759.jpg",
-      "assets/_VIB1766_2.jpg"
+      "assets/VIB1574.jpg",
+      "assets/VIB1627.jpg",
+      "assets/VIB1642.jpg",
+      "assets/VIB1722.jpg",
+      "assets/VIB1728.jpg",
+      "assets/VIB1759.jpg",
+      "assets/VIB1766_2.jpg"
     ]
   },
   {
