@@ -1,0 +1,222 @@
+/* -------------------------------------------------------------------------- */
+/* Video portfolio — responsive Google Drive player cards                     */
+/* -------------------------------------------------------------------------- */
+
+.video-section {
+  width: 100%;
+  padding: 104px 10.2%;
+  background: #101b2d;
+  color: #fff;
+}
+
+.video-container {
+  display: grid;
+  grid-template-columns: minmax(250px, 0.82fr) minmax(0, 1.5fr);
+  align-items: center;
+  gap: clamp(42px, 7vw, 100px);
+  width: 100%;
+  max-width: 1376px;
+  margin: 0 auto;
+}
+
+.video-intro {
+  max-width: 460px;
+}
+
+.video-label {
+  display: block;
+  margin-bottom: 25px;
+  color: #e5ad50;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+}
+
+.video-intro h2 {
+  margin: 0 0 25px;
+  color: #fff;
+  font: 500 clamp(46px, 4.2vw, 70px)/1.06 Manrope, sans-serif;
+  letter-spacing: -3px;
+}
+
+.video-intro h2 span {
+  display: block;
+  color: #dfaa50;
+  font: italic 400 1em Georgia, serif;
+}
+
+.video-intro p {
+  max-width: 440px;
+  margin: 0 0 28px;
+  color: #c3d0df;
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+.video-contact-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 19px;
+  border: 1px solid #68758a;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease;
+}
+
+.video-contact-btn:hover {
+  border-color: #dfaa50;
+  background: #dfaa50;
+  color: #101b2d;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  min-width: 0;
+}
+
+.video-card {
+  min-width: 0;
+  overflow: hidden;
+  background: #18283d;
+  border: 1px solid #34445a;
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.video-card:hover {
+  transform: translateY(-4px);
+  border-color: #b98b48;
+}
+
+.video-card-heading {
+  min-height: 94px;
+  padding: 18px 19px 14px;
+}
+
+.video-card-label {
+  display: block;
+  margin-bottom: 9px;
+  color: #dfaa50;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.7px;
+}
+
+.video-card h3 {
+  margin: 0;
+  color: #fff;
+  font: italic 400 23px/1.2 Georgia, serif;
+}
+
+.drive-player {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  background: #080d15;
+}
+
+.video-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 15px 18px 17px;
+}
+
+.video-card-footer p {
+  margin: 0;
+  color: #b8c4d2;
+  font-size: 10px;
+  line-height: 1.6;
+}
+
+.video-card-footer a {
+  flex: 0 0 auto;
+  color: #e5ad50;
+  font-size: 10px;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.video-card-footer a:hover {
+  color: #fff;
+}
+
+.video-loading,
+.video-load-error {
+  grid-column: 1 / -1;
+  color: #c3d0df;
+  font-size: 12px;
+  line-height: 1.8;
+}
+
+@media (max-width: 1100px) {
+  .video-section {
+    padding: 86px 6%;
+  }
+
+  .video-container {
+    grid-template-columns: minmax(220px, 0.8fr) minmax(0, 1.4fr);
+    gap: 42px;
+  }
+
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 760px) {
+  .video-section {
+    padding: 72px 6%;
+  }
+
+  .video-container {
+    grid-template-columns: 1fr;
+    gap: 38px;
+  }
+
+  .video-intro {
+    max-width: 100%;
+  }
+
+  .video-intro h2 {
+    font-size: 52px;
+  }
+
+  .video-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+}
+
+@media (max-width: 540px) {
+  .video-section {
+    padding: 64px 22px;
+  }
+
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .video-card-heading {
+    min-height: 0;
+  }
+
+  .video-card-footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .video-card,
+  .video-contact-btn {
+    transition: none;
+  }
+}
